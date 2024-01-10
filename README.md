@@ -1,4 +1,4 @@
-#CyberSec Journey Portfolio
+# CyberSec Journey Portfolio
 
 Welcome to my CyberSec Journey Portfolio! This repository documents my exploration, learning, and practical applications in the field of cybersecurity. It's a testament to my growth, projects, and experiences in this dynamic domain.
 
